@@ -80,10 +80,7 @@ https://github.com/vitormouragit/Sistema-de-Gerenciamento-de-Projetos-de-Pesquis
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitormouragit&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=12" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitormouragit&layout=compact&langs_count=8&theme=github_dark&border_radius=12" />
-</p>
+<p align="center"> <img height="180em" src="https://github-stats-extended.vercel.app/api?username=vitormouragit&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_radius=12" /> <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vitormouragit&layout=compact&langs_count=8&theme=github_dark&border_radius=12" /> </p>
 
 ---
 
@@ -97,17 +94,7 @@ https://github.com/vitormouragit/Sistema-de-Gerenciamento-de-Projetos-de-Pesquis
 
 # 📈 Atividade no GitHub
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitormouragit&bg_color=0B1F3A&color=FFFFFF&line=1E90FF&point=FFFFFF&area=true&hide_border=true" />
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vitormouragit&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" />
-</p>
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitormouragit&bg_color=0B1F3A&color=FFFFFF&line=1E90FF&point=FFFFFF&area=true&hide_border=true" /> </p>
 
 ---
 
