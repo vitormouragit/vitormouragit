@@ -94,7 +94,9 @@ https://github.com/vitormouragit/Sistema-de-Gerenciamento-de-Projetos-de-Pesquis
 
 # 📈 Atividade no GitHub
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=vitormouragit&bg_color=0B1F3A&color=FFFFFF&line=1E90FF&point=FFFFFF&area=true&hide_border=true" /> </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vitormouragit/vitormouragit/output/activity-graph.svg" />
+</p>
 
 ---
 
