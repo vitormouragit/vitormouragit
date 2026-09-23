@@ -19,7 +19,7 @@ jobs:
       - name: Generate activity graph
         uses: maurodesouza/github-readme-activity-graph-action@v1
         with:
-          username: ${{ github.repository_owner }}
+          username: vitormouragit
           options: bg_color=0B1F3A&color=FFFFFF&line=1E90FF&point=FFFFFF&area=true&hide_border=true
           output_path: dist/activity-graph.svg
           token: ${{ secrets.GITHUB_TOKEN }}
